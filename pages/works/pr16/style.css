@@ -1,0 +1,90 @@
+.head {
+    background: linear-gradient(to right, rgb(0, 255, 174), rgb(0, 102, 255));
+    padding-bottom: 90px;
+    display: flex;
+}
+li {
+    display: inline-block;
+}
+nav {
+    display: flex;
+    justify-content: center;
+     
+}
+@font-face {
+    font-family: MontserratLight; /* Гарнитура шрифта */
+    src: url(fonts/Montserrat/Montserrat-light.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: MontserratBold; /* Гарнитура шрифта */
+    src: url(fonts/Montserrat/Montserrat-Bold.ttf); /* Путь к файлу со шрифтом */
+   }
+   a {
+    font-family: MontserratLight;
+    font-size: medium;
+    color: white;
+    text-decoration: none
+   }
+   h3 {
+    font-family: MontserratBold;
+    font-size: xx-large;
+    text-transform: uppercase  ;
+    color: white;
+   }
+   .second p {
+    font-family: MontserratLight;
+    font-size: large;
+    line-height: 30px;
+    color: white;
+    text-decoration: none
+   }
+.first {
+    padding-left: 50px;
+}
+.second {
+    padding-left: 50px;
+}
+.btns {
+    display: flex;
+    justify-content: left;
+    padding-left: 30px;
+}
+.buy {
+    font-family: 'MontserratLight';
+    font-size: 15px;
+    color: #ffffff !important;
+    padding: 14px 25px;
+    border-radius: 10px;
+    background: #000000;
+    width: 80px;
+    margin: 20px
+  }
+  .try {
+        font-family: 'MontserratLight';
+        font-size: 15px;
+        color: #000000 !important;
+        padding: 14px 25px;
+        border-radius: 10px;
+        background: #ffffff;
+        width: 110px;
+        margin: 20px
+  }
+  .infos {
+    gap: 150px;
+    margin: 0 auto;
+    width: 1600px;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+  }
+
+
+
+  
+  
+  
+  
+
+
+   
+

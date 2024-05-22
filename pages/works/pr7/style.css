@@ -1,0 +1,69 @@
+.p1 {
+    text-align: center;
+}
+.p2 {
+    text-indent: 35px;
+}
+.p3 {
+    line-height: 50px;
+}
+.p4 {
+    vertical-align: bottom;
+}
+.p5 {
+    word-spacing: 50em;
+}
+.p6 {
+    letter-spacing: 7px;
+}
+.p7 {
+    white-space: normal;
+}
+.p8 {
+    tab-size: 16px;
+}
+.p9 {
+    text-transform: capitalize;
+}
+.p10 {
+    direction: rtl;
+}
+#p11 {
+    unicode-bidi: embed;
+}
+#p12 {
+    text-decoration: line-through;
+}
+#p13:first-letter {
+    font-size: 2em;
+margin-right: 2px;
+color: rgb(198, 29, 17);
+font-weight: bold;
+}
+#p13:first-line {
+color: rgb(25, 87, 25);
+}
+#p14 {
+    quotes: '"' '"';
+}
+#p15 {
+    font-family: monospace;
+}
+#p16 {
+    font-style: italic;
+}
+#p17 {
+    font-variant: small-caps ;
+}
+#p18 {
+    font-weight: 900;
+}
+#p19 {
+    font-size: xx-large;
+}
+#p20 {
+    color: blueviolet;
+}
+#p21 {
+    font: italic bold 14px/1.5 Times, 'New Century Schoolbook', serif;
+}
